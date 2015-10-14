@@ -1,0 +1,3 @@
+Talk about your preferred development environment.
+
+-My preferred environment is ubuntu-linux. I love how fast you can do things through the terminal and its really developer friendly. Its extremely customizeable, lots of shortcuts through the terminal, and supported by dev software. Overall I find it to be a straightforward kind of enviornment that allows me to work quickly and without frustration.

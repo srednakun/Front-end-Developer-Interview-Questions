@@ -1,0 +1,3 @@
+* Can you describe your workflow when you create a web page?
+
+-First talk about all the ideas, make notes, drawings of what it will look like. Then making diagrams of all the different components in the page. From there, making the basic directories that will be needed, setting up sass, gulp, other dev tools etc. Then I can begin setting up the semantic html and then the sass and js files. After all that stuff is put in, using minify to compact the code, compressing any large folders/files. 
